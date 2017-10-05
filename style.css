@@ -8,22 +8,6 @@ body {
     background-color: coral;
 }
 
-/*.score {*/
-    display: inline-block;
-    top: 1px;
-    left: auto;
-    right: auto;
-}
-
-.score h3 {
-    display: inline-block;
-    font-size: 50px;
-    background-color: aliceblue;
-    height: 50px;
-    width: 50px;
-    border: 1px solid black;
-    text-align: center;
-}
 canvas {
     border: 3px solid white;
 }
